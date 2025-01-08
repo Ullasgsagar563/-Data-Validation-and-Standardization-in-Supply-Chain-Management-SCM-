@@ -1,4 +1,4 @@
-```markdown
+
 # Data Validation and Standardization in Supply Chain Management
 
 ## Project Overview
@@ -117,7 +117,5 @@ Missing Order Date             | █              1
 
 ---
 
-## License
-MIT License
-```
+
 
