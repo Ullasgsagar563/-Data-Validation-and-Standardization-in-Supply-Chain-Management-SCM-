@@ -13,7 +13,8 @@ The app is built using **Streamlit** for the frontend and **Pandas** for data pr
 ---
 
 ## Project Structure
-```
+
+```bash
 supply_chain_validation/
 │
 ├── app.py                      # Main Streamlit app
